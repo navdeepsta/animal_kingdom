@@ -5,3 +5,4 @@ Leopard
 Snake
 Deer
 Elephant
+Rhino
